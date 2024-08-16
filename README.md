@@ -78,4 +78,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Juan Rubiales - jrubialesv@gmail.com
 
-Project Link: [https://github.com/your_username/AI-Board-Games-Engines](https://github.com/your_username/AI-Board-Games-Engines)
+Project Link: [https://github.com/jrubialesv/AI-Board-Games-Engines](https://github.com/jrubialesv/AI-Board-Games-Engines)
